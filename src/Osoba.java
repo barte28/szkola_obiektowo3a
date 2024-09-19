@@ -1,6 +1,11 @@
 import java.util.Scanner;
 
-public class Osoba {
+public abstract class Osoba {
+    //klasa abstrakcyjna
+    /*
+    nie można utworzyć obiektu tej klasy
+    klasa jest wykorzystywana w dziedziczeniu
+     */
     private String imie;
     private String nazwisko;
     private int wiek;
