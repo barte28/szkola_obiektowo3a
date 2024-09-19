@@ -19,5 +19,8 @@ public class Main {
         klasa3a.dodajUczniaDoKlasy(uczen2);
         klasa3a.dodajUczniaDoKlasy(uczen3);
         System.out.println(klasa3a);
+
+        Szkola zs10 = Szkola.getSzkola();
+
     }
 }

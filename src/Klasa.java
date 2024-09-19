@@ -1,5 +1,8 @@
 import java.util.ArrayList;
 
+/**
+ * Klasa reprezentująca zespół uczniów
+ */
 public class Klasa {
     private String nazwaKlasa;
     private ArrayList<Uczen> uczniowie;
